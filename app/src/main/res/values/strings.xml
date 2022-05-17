@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sp20_bse_006_Mid_Sec_C_Button_app</string>
+    <string name="perm_label" > dangerous</string>
+    <string name="perm_description" >dangerous_decription</string>
 </resources>
